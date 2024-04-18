@@ -11,6 +11,7 @@ export default {
 
 }
 
+console.log("App vue run confirm");
 </script>
 
 <style>
